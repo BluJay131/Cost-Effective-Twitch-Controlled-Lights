@@ -27,7 +27,7 @@ This repository contains a Python script that enables the creation of a Twitch b
    ```
    pip install pyFirmata twitchio
    ```
-3. Configure the config.csv file with your details, it goes in the format of **token** (token from the twitchapps website above), **prefix** (word or symbol used for the bot to recognize your command), **initial_channel** (name of your twitch channel), **com_port** (usb port of the arduino eg. 'COM5'), **led_pin** (pin on arduino to use eg. 'd:3:o')
+3. Configure the config.csv file with your details, it goes in the format of `token` (token from the twitchapps website above), `prefix` (word or symbol used for the bot to recognize your command), `initial_channel` (name of your twitch channel), `com_port` (usb port of the arduino eg. 'COM5'), `led_pin` (pin on arduino to use eg. 'd:3:o')
 4. Run and have fun streaming!
 
 ## Side Notes
