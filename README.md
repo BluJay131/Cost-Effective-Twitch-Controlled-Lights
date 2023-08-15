@@ -11,7 +11,7 @@
 
 ## Description
 
-This repository contains a Python script that enables the creation of a Twitch bot capable of controlling an RGB LED through commands from the Twitch chat. The script interfaces with an Arduino board via the `pyfirmata` library and manages Twitch interactions using the `twitchio` library.
+A Python script that enables the creation of a Twitch bot capable of controlling an RGB LED through commands from the Twitch chat. The script interfaces with an Arduino board via the `pyfirmata` library and manages Twitch interactions using the `twitchio` library.
 
 ## Prerequisites
 
