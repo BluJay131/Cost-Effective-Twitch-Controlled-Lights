@@ -27,7 +27,8 @@ This repository contains a Python script that enables the creation of a Twitch b
    ```
    pip install pyFirmata twitchio
    ```
-3. Upload the StandardFirmata sketch to your Arduino board using the Arduino IDE. (Simple and easy to follow video here: https://www.youtube.com/watch?v=KPfBOGjJdqE&t=526s)
+3. Upload the StandardFirmata sketch to your Arduino board using the Arduino IDE.
+   (Simple and easy to follow video here: https://www.youtube.com/watch?v=KPfBOGjJdqE&t=526s)
 4. Configure the config.csv file with your details, it goes in the format of:
    `token` (token from the twitchapps website above),
    `prefix` (word or symbol used for the bot to recognize your command),
