@@ -22,13 +22,13 @@ A Python script that enables the creation of a Twitch bot capable of controlling
 
 ## Installation and Usage
 
-1. Clone this repository to your local machine or download the script.
-2. Install the required Python libraries using the following command:
+1. Clone this repository to your local machine or download the script.\
+2. Install the required Python libraries using the following command:\
    ```
    pip install pyFirmata twitchio
    ```
 3. Upload the StandardFirmata sketch to your Arduino board using the Arduino IDE.\
-   (Simple and easy to follow video here: https://www.youtube.com/watch?v=KPfBOGjJdqE&t=526s)
+   (Simple and easy to follow video here: https://www.youtube.com/watch?v=KPfBOGjJdqE&t=526s)\
 4. Configure the config.csv file with your details, it goes in the format of:\
    `token` (OAuth token from the twitchapps website above),\
    `prefix` (Word or symbol used for the bot to recognize your command),\
@@ -36,7 +36,7 @@ A Python script that enables the creation of a Twitch bot capable of controlling
    `com_port` (USB port of the arduino eg. 'COM5'),\
    `led_pin` (Pin on arduino to use eg. 'd:3:o')\
 5. Physical Setup\
-   As shown in the diagram above, the button to change the color of the lights is replaced with a photoresistor. On the Arduino side, a white LED is used on pin 3 in order to complete the circuit that the original button     controlled. (You can go to the dollar tree and get a motion detected night light to harvest both of these parts.
+   As shown in the diagram above, the button to change the color of the lights is replaced with a photoresistor. On the Arduino side, a white LED is used on pin 3 in order to complete the circuit that the original button     controlled. (You can go to the dollar tree and get a motion detected night light to harvest both of these parts.\
 7. Run and have fun streaming!
 
 ## Side Notes
