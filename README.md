@@ -20,10 +20,16 @@ This repository contains a Python script that enables the creation of a Twitch b
 - RGB LED Strip Controller (tested with <a target="_blank" href="https://www.amazon.com/Lights-ehomful-Changing-Bedroom-Decoration/dp/B089YPWZKY?pd_rd_w=1UL1g&amp;content-id=amzn1.sym.e8faeee7-63c9-4cb3-96e0-e50a41f3b35b&amp;pf_rd_p=e8faeee7-63c9-4cb3-96e0-e50a41f3b35b&amp;pf_rd_r=XRHVTHYP8DZBCGCFPS86&amp;pd_rd_wg=sRwms&amp;pd_rd_r=d78b57fd-3202-4e1b-9504-ec35e67118ea&amp;pd_rd_i=B089YPWZKY&amp;ref_=pd_bap_d_grid_rp_0_6_t&amp;th=1&_encoding=UTF8&tag=blujay131-20&linkCode=ur2&linkId=6b8e047959132aa333bb5414e58410ca&camp=1789&creative=9325">RGB LED Strip Lights</a>, affiliate btw)
 - Twitch account and an OAuth token for the bot which you can get from here: https://twitchapps.com/tmi/
 
-## Installation
+## Installation and Usage
 
 1. Clone this repository to your local machine or download the script.
 2. Install the required Python libraries using the following command:
    ```
    pip install pyFirmata twitchio
    ```
+3. Configure the config.csv file with your details, it goes in the format of **token** (token from the twitchapps website above), **prefix** (word or symbol used for the bot to recognize your command), **initial_channel** (name of your twitch channel), **com_port** (usb port of the arduino eg. 'COM5'), **led_pin** (pin on arduino to use eg. 'd:3:o')
+4. Run and have fun streaming!
+
+## Side Notes
+
+-
