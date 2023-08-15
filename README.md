@@ -24,6 +24,6 @@ This repository contains a Python script that enables the creation of a Twitch b
 
 1. Clone this repository to your local machine or download the script.
 2. Install the required Python libraries using the following command:
-   '''
-   pip install pyfirmata twitchio
-   '''
+   ```
+   pip install pyFirmata twitchio
+   ```
