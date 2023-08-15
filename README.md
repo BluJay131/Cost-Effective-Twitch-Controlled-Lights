@@ -30,11 +30,11 @@ This repository contains a Python script that enables the creation of a Twitch b
 3. Upload the StandardFirmata sketch to your Arduino board using the Arduino IDE.\
    (Simple and easy to follow video here: https://www.youtube.com/watch?v=KPfBOGjJdqE&t=526s)
 4. Configure the config.csv file with your details, it goes in the format of:\
-   `token` (token from the twitchapps website above),\
-   `prefix` (word or symbol used for the bot to recognize your command),\
-   `initial_channel` (name of your twitch channel),\
-   `com_port` (usb port of the arduino eg. 'COM5'),\
-   `led_pin` (pin on arduino to use eg. 'd:3:o')\
+   `token` (OAuth token from the twitchapps website above),\
+   `prefix` (Word or symbol used for the bot to recognize your command),\
+   `initial_channel` (Name of your twitch channel),\
+   `com_port` (USB port of the arduino eg. 'COM5'),\
+   `led_pin` (Pin on arduino to use eg. 'd:3:o')\
 5. Run and have fun streaming!
 
 ## Side Notes
