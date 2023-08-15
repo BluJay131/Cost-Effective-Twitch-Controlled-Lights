@@ -38,9 +38,9 @@ A Python script that enables the creation of a Twitch bot capable of controlling
 5. Physical Setup\
    ![CircuitDiagram](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/23c4d0f4-2f49-4beb-b63e-dc70ad49fe09)\
    As shown in the diagram above, the button to change the color of the lights is replaced with a photoresistor. On the Arduino side, a white LED is used on pin 3 in order to complete the circuit that the original button     controlled. (You can go to the dollar tree and get a motion detected night light to harvest both of these parts.
-   ![unnamed (2)](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/0a9b24bf-b3fa-4bdb-b88b-deae203bc429)
-   ![unnamed](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/49fc669f-8bdd-4c38-8be8-f4ffc9ed443a)
-   ![unnamed (1)](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/9409f717-4a74-4a1f-8b79-5b9d42a039b6)
+   ![unnamed (5)](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/def9b3ee-ed59-4e38-8121-f70b747a77c2)
+   ![unnamed (3)](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/fbbd58a4-6be0-4956-8ce9-2a94b0ce734a)
+   ![unnamed (4)](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/fa515666-607c-433e-a6eb-3efa8096c375)
 
 7. Run and have fun streaming!
 
