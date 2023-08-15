@@ -36,7 +36,7 @@ A Python script that enables the creation of a Twitch bot capable of controlling
    `com_port` (USB port of the arduino eg. 'COM5'),\
    `led_pin` (Pin on arduino to use eg. 'd:3:o')\
 5. Physical Setup\
-   ![CircuitDiagram](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/23c4d0f4-2f49-4beb-b63e-dc70ad49fe09)
+   ![CircuitDiagram](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/23c4d0f4-2f49-4beb-b63e-dc70ad49fe09)\
    As shown in the diagram above, the button to change the color of the lights is replaced with a photoresistor. On the Arduino side, a white LED is used on pin 3 in order to complete the circuit that the original button     controlled. (You can go to the dollar tree and get a motion detected night light to harvest both of these parts.
    ![unnamed (2)](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/0a9b24bf-b3fa-4bdb-b88b-deae203bc429)
    ![unnamed](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/49fc669f-8bdd-4c38-8be8-f4ffc9ed443a)
