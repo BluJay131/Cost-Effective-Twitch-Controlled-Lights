@@ -1,2 +1,2 @@
 token,prefix,initial_channel,com_port,led_pin
-nhl29340yf5eh53vft1z6tv9tlf313,lights,BluJay132,COM5,d:3:o
+YOUR_TOKEN_HERE,lights,YOUR_CHANNEL_NAME_HERE,COM5,d:3:o
