@@ -1,6 +1,6 @@
 # Cost Effective Twitch Chat Controlled Lights
 [![Official Website](https://img.shields.io/badge/Official%20Website-blujay131.com-blue?style=flat&logo=world&logoColor=white)](https://blujay131.com/)
-[![Socials](https://img.shields.io/badge/Official%20Website-agpt.co-blue?style=flat&logo=world&logoColor=white)](https://linktr.ee/blujay_131)
+[![Socials](https://img.shields.io/badge/Official%20Website-blujay131.com-blue?style=flat&logo=world&logoColor=white)](https://linktr.ee/blujay_131)
 [![GitHub Repo stars](https://img.shields.io/github/stars/BluJay131/Cost-Effective-Twitch-Chat-Controlled-Lights?style=social)](https://github.com/BluJay131/Cost-Effective-Twitch-Chat-Controlled-Lights/stargazers)
 
 <hr/>
