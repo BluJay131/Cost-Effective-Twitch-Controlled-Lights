@@ -44,7 +44,7 @@ A Python script that enables a Twitch bot capable of controlling an RGB LED stri
    <img src="https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/fbbd58a4-6be0-4956-8ce9-2a94b0ce734a" data-canonical-src="https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/fbbd58a4-6be0-4956-8ce9-2a94b0ce734a" width="250" height="250" />\
    For my real life implementation, I desoldered the 'color' button and replaced the 2 contacts with wire to feed through the shell to the breadboard. Also, I got a large straw an cut a small piece down one side so I could fit it over the photoresistor and LED to stop excess light pollution from external sources such as the LED strips themselves.
 
-7. Run and have fun streaming!
+7. Run and have fun streaming! (Commands in the code are in the format of "lights red" or "lights help")
 
 ## Side Notes
 
