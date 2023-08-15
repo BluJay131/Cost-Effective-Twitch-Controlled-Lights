@@ -11,7 +11,7 @@
 
 ## Description
 
-A Python script that enables the creation of a Twitch bot capable of controlling an RGB LED through commands from the Twitch chat. The script interfaces with an Arduino board via the `pyfirmata` library and manages Twitch interactions using the `twitchio` library.
+A Python script that enables the creation of a Twitch bot capable of controlling an RGB LED strip through commands from the Twitch chat. The script interfaces with an Arduino board via the `pyfirmata` library and manages Twitch interactions using the `twitchio` library.
 
 ## Prerequisites
 
@@ -35,8 +35,11 @@ A Python script that enables the creation of a Twitch bot capable of controlling
    `initial_channel` (Name of your twitch channel),\
    `com_port` (USB port of the arduino eg. 'COM5'),\
    `led_pin` (Pin on arduino to use eg. 'd:3:o')\
-5. Run and have fun streaming!
+5. Physical Setup\
+   As shown in the diagram above, the button to change the color of the lights is replaced with a photoresistor. On the Arduino side, a white LED is used on pin 3 in order to complete the circuit that the original button     controlled. (You can go to the dollar tree and get a motion detected night light to harvest both of these parts.
+7. Run and have fun streaming!
 
 ## Side Notes
 
--
+- You can modify the bot script to add more color commands easily or customize the behavior according to your preferences.
+- This project is licensed under the MIT License.
