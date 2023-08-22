@@ -6,7 +6,7 @@ from twitchio.ext import commands
 board = pyfirmata.ArduinoMega('com7')
 pin3 = board.get_pin('d:3:o')
 color = 0
-token='nhl29340yf5eh53vft1z6tv9tlf313'
+token='Your_Token_Here'
 prefix='lights'
 initial_channels=['BluJay132']
 
