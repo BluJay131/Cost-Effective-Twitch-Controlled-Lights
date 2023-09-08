@@ -48,5 +48,5 @@ A Python script that enables a Twitch bot capable of controlling an RGB LED stri
 
 ## Side Notes
 
-- You can modify the bot script to add more color commands easily or customize the behavior according to your preferences.
+- You can modify the bot script to add more color commands easily (V2 is probably your best friend for this) or customize the behavior according to your preferences.
 - This project is licensed under the MIT License.
